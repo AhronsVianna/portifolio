@@ -2,7 +2,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/AhronsVianna/portifolio/blob/main/assets/Imagem.png)
+![image](https://github.com/AhronsVianna/portifolio/blob/main/assets/README%20pic.png)
 
 ## Ferramentas utilizadas:
 
