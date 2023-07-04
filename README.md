@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-link: https://portifolio-ixddixsyc-ahronsvianna.vercel.app/
+link: https://portifolio-ahronsvianna.vercel.app/
 
 ![image](https://github.com/AhronsVianna/portifolio/blob/main/assets/README%20pic.png)
 
